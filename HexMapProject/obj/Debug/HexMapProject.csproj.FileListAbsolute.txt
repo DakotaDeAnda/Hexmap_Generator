@@ -1,0 +1,11 @@
+C:\Users\mirac\source\repos\HexMapProject\HexMapProject\bin\Debug\HexMapProject.exe.config
+C:\Users\mirac\source\repos\HexMapProject\HexMapProject\bin\Debug\HexMapProject.exe
+C:\Users\mirac\source\repos\HexMapProject\HexMapProject\bin\Debug\HexMapProject.pdb
+C:\Users\mirac\source\repos\HexMapProject\HexMapProject\obj\Debug\HexMapProject.csproj.AssemblyReference.cache
+C:\Users\mirac\source\repos\HexMapProject\HexMapProject\obj\Debug\HexMapProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirac\source\repos\HexMapProject\HexMapProject\obj\Debug\HexMapProject.Form1.resources
+C:\Users\mirac\source\repos\HexMapProject\HexMapProject\obj\Debug\HexMapProject.Properties.Resources.resources
+C:\Users\mirac\source\repos\HexMapProject\HexMapProject\obj\Debug\HexMapProject.csproj.GenerateResource.cache
+C:\Users\mirac\source\repos\HexMapProject\HexMapProject\obj\Debug\HexMapProject.csproj.CoreCompileInputs.cache
+C:\Users\mirac\source\repos\HexMapProject\HexMapProject\obj\Debug\HexMapProject.exe
+C:\Users\mirac\source\repos\HexMapProject\HexMapProject\obj\Debug\HexMapProject.pdb
